@@ -1,0 +1,1 @@
+print("This is a freestyle project to demonstrate simple python application")
